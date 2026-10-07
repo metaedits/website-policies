@@ -1,0 +1,428 @@
+**Cancellation and Refund Policy**
+
+**Effective date:** 01/10/2026  
+**Last updated:** 07/10/2026
+
+Meta Edits aims to provide academic and research-support services with
+clear expectations, transparent pricing and reasonable care. This Policy
+explains when orders may be cancelled, how refund requests are assessed
+and the remedies available when a service does not meet its agreed
+scope.
+
+This Policy applies to services purchased through **metaedits.in**,
+email, WhatsApp or other authorised Meta Edits channels.
+
+It should be read alongside our Terms and Conditions, Privacy Policy and
+your accepted quotation or project agreement. Nothing in this Policy
+excludes rights or remedies available under applicable consumer law.
+
+**Services covered**
+
+This Policy covers our paid services, including:
+
+* Academic writing guidance and permitted content-development support.
+* Literature searches and literature review assistance.
+* Editing, proofreading and academic language refinement.
+* Thesis and manuscript formatting.
+* Citation and reference management.
+* DrillBit similarity and AI-generated-content detection reports.
+* Pre-submission manuscript assessment.
+* Data visualisation, infographics and flowcharts.
+* LaTeX manuscript and poster preparation.
+* Presentations and PowerPoint design.
+* Grant, patent and dataset searches.
+* Academic translation.
+* Questionnaire-development support.
+* Systematic literature review assistance.
+
+The agreed scope, rather than a general description on our website,
+determines what must be delivered for a particular order.
+
+**General approach to refunds**
+
+We do not apply a blanket "no refunds" rule simply because our services
+are customised or delivered electronically.
+
+Refund decisions consider:
+
+* The service and deliverables agreed.
+* Whether work has started.
+* The work reasonably completed before cancellation.
+* Whether delivered work meets the original instructions.
+* Any authorised, non-recoverable third-party costs.
+* Whether a correction or re-performance can reasonably resolve the
+issue.
+* Any rights or remedies required by law.
+
+Advance payments are not automatically forfeited when an order is
+cancelled.
+
+**Cancellation before work begins**
+
+If you cancel before we begin the agreed work, you will normally receive
+a full refund of the service fee paid.
+
+A deduction may apply only for a specifically authorised,
+non-recoverable third-party cost already incurred for your order, where
+lawful. We will explain and, where appropriate, substantiate any
+deduction.
+
+Routine quotation preparation, payment confirmation or ordinary
+administrative correspondence does not, by itself, mean substantive
+project work has begun.
+
+**Cancellation after work begins**
+
+You may cancel an ongoing project by contacting us in writing.
+
+Once we receive your cancellation request, we will stop further
+chargeable work as soon as reasonably practicable. We will not continue
+unnecessary work merely to increase cancellation charges.
+
+Your refund will ordinarily be calculated as:
+
+**Amount paid − reasonable value of work completed − authorised,
+non-recoverable third-party costs.**
+
+We will assess completed work using the agreed milestone prices, unit
+rates or another reasonable basis consistent with your quotation. We
+will not introduce an undisclosed retrospective hourly rate.
+
+If work has been completed and paid for, we will provide the available
+work product where practicable, clearly identifying any unfinished or
+unreviewed material.
+
+A cancellation charge will not exceed the agreed order value. Any
+additional amount claimed beyond an advance already paid must be
+supported by the accepted payment terms and applicable law.
+
+**Milestone-based projects and service packages**
+
+For projects divided into milestones:
+
+* Properly completed milestones are generally payable.
+* An ongoing milestone is assessed according to the work reasonably
+completed.
+* Prepaid, unstarted milestones are generally refundable.
+* Deficient milestones remain subject to the correction and refund
+provisions below.
+
+For bundled services, any partial refund will use the component prices
+in your quotation. If component prices were not specified, we will use a
+reasonable allocation of the total package price.
+
+We will not retrospectively reprice completed services at an inflated
+standalone rate to eliminate a refund unless a lawful and clearly
+disclosed pricing arrangement was agreed before purchase.
+
+**If Meta Edits cancels or cannot complete an order**
+
+If we cancel because we cannot provide the agreed service, we will
+refund payment for the unperformed portion.
+
+If our failure makes partially completed work unusable for the agreed
+purpose, an additional refund or other appropriate remedy may be
+available.
+
+Where possible, we may offer an alternative delivery schedule or revised
+scope. You are not required to accept a materially different service
+instead of a refund to which you are entitled.
+
+We may also discontinue work where instructions involve academic
+misconduct, unlawful activity, serious abuse or another material breach
+of our Terms. In those cases, refunds will still be assessed fairly
+against work completed and lawful costs incurred; cancellation does not
+automatically result in forfeiture of all payments.
+
+**Work that does not meet the agreed scope**
+
+Please contact us if you believe a deliverable contains material errors,
+omits agreed work or does not follow the instructions accepted before
+the project began.
+
+Examples include:
+
+* Formatting that materially departs from supplied university or journal
+guidelines.
+* Missing deliverables expressly included in the quotation.
+* Substantial untranslated sections in an agreed translation.
+* A report generated for the wrong document.
+* Editing that fails to provide the purchased level of service.
+* Visualisations that do not reflect the data or specifications
+supplied.
+
+We will review the concern against the accepted scope and original
+source materials.
+
+Depending on the circumstances, an appropriate remedy may include:
+
+* Correction at no additional service charge.
+* Re-performance of the affected service.
+* A proportionate price reduction.
+* A partial refund.
+* A full refund where the service substantially fails its agreed
+purpose.
+
+We may offer a reasonable opportunity to correct the problem, but you
+are not required to accept repeated unsuccessful corrections or a remedy
+inconsistent with your statutory rights.
+
+**Revisions and refund requests**
+
+Unless your quotation states otherwise, an order includes **two
+consolidated revision rounds requested within 14 calendar days of
+delivery**.
+
+Included revisions must relate to the original scope. Please combine
+feedback into a clear set of comments for each round.
+
+Corrections needed because we failed to follow the agreed instructions
+will not be treated as chargeable additional work.
+
+New content, a different journal's requirements, a changed research
+objective or replacement of the source document may require a new
+quotation. Such changes do not, by themselves, establish that the
+original service was defective.
+
+Please report concerns promptly, preferably within the revision window.
+**The 14-day revision window is not an absolute deadline for statutory
+claims or concerns that could not reasonably have been discovered
+earlier.**
+
+**Service-specific refund considerations**
+
+**Editing, proofreading, translation and formatting**
+
+These services are assessed against the purchased level of support and
+the agreed instructions.
+
+A supervisor's or reviewer's preference for different wording does not
+automatically mean an editing service was deficient. However, feedback
+identifying a failure to follow the original brief will be treated as a
+potential in-scope correction.
+
+For translation, material omissions or errors attributable to us will be
+reviewed for correction or another appropriate remedy.
+
+**Literature reviews and research searches**
+
+Payment covers the agreed search, screening, synthesis or
+research-support work---not a guaranteed number of favourable findings.
+
+A search that identifies limited evidence, no suitable grant, no
+relevant dataset or no matching patent record is not automatically
+defective if the agreed search was properly conducted and its
+limitations were reported.
+
+A remedy may be available if we omit agreed databases or search stages,
+materially misrepresent search coverage, or fail to deliver the agreed
+output.
+
+Unavailable paywalled sources or access restrictions will be discussed
+where they affect delivery. We will not charge for source purchases
+without your authorisation.
+
+**DrillBit similarity and AI-detection reports**
+
+Once a correctly authorised check has been run and a valid report
+delivered for the correct document, the service is normally considered
+performed.
+
+A refund is not ordinarily due solely because:
+
+* The similarity or AI-detection score is unexpected.
+* Another tool produces a different result.
+* Your institution requires a different reporting platform.
+* A document does not achieve a preferred score.
+
+These exclusions do not apply where we misrepresented the service or
+expressly agreed to meet a requirement that we failed to meet.
+
+If we check the wrong file, use settings contrary to the agreed
+instructions or fail to provide a usable report due to an error
+attributable to us, we will provide a corrected check or another
+appropriate remedy.
+
+**Pre-submission manuscript assessment**
+
+This service provides an independent assessment within the agreed scope.
+It does not guarantee journal acceptance or eliminate the possibility of
+further reviewer criticism.
+
+A refund is not ordinarily due solely because a journal later rejects
+the manuscript. Missing, materially incomplete or out-of-scope
+assessments will be reviewed under the service-deficiency provisions.
+
+**Visualisations, posters, presentations and LaTeX files**
+
+Subjective preferences about design are normally addressed through the
+included revision process.
+
+A remedy may be appropriate if the delivered files omit agreed content,
+materially depart from approved specifications or fail to function in an
+expressly agreed technical environment.
+
+Editable source files are required only where included in the accepted
+quotation.
+
+**Delayed delivery**
+
+If a material delay arises, we will notify you and discuss its effect on
+the project.
+
+Where a deadline was expressly agreed as essential and a delay
+attributable to us makes the work unsuitable for its agreed purpose, an
+appropriate cancellation, refund or other remedy may be available.
+
+Client delays in supplying files, approvals or necessary instructions
+may require a revised delivery date. Such delays will not be treated as
+Meta Edits missing the original deadline without considering their
+impact.
+
+If you paid an express or priority surcharge and we fail to provide the
+agreed expedited service for reasons attributable to us, we will refund
+that surcharge. Additional remedies may apply if the underlying service
+is also affected.
+
+**Circumstances that do not automatically qualify for a refund**
+
+A refund is not automatically available solely because:
+
+* You change your mind after properly performed work has been completed.
+* You no longer need the document.
+* A university, journal, funder or other third party makes an
+unfavourable decision.
+* You provide incorrect or incomplete instructions.
+* You request additional work after the original service is completed.
+* Another provider offers a lower price.
+* You do not use a conforming deliverable.
+
+Each request will still be reviewed on its merits. These circumstances
+do not excuse misleading representations, service deficiencies or a
+failure to meet an expressly agreed requirement.
+
+**Third-party charges**
+
+Third-party costs may include authorised article purchases, specialist
+software checks, licensed assets or other project-specific purchases.
+
+A deduction for such costs will apply only where the cost:
+
+* Was disclosed and authorised.
+* Was actually incurred for your project.
+* Cannot reasonably be recovered.
+* May lawfully be passed on to you.
+
+We will not deduct hypothetical charges, ordinary business overheads or
+costs recovered from the provider.
+
+**Duplicate, excess or mistaken payments**
+
+If you make a duplicate or excess payment, please send the transaction
+details to us.
+
+After verification, we will refund the confirmed excess amount. We will
+not require you to accept service credit instead of a refund.
+
+If you paid an incorrect recipient or suspect payment fraud, contact
+your payment provider immediately and notify us. We cannot reverse
+transactions that we did not receive, but we can help confirm our
+authorised payment details.
+
+**How to request cancellation or a refund**
+
+Contact:
+
+**Email:** [editor@metaedits.in](mailto:editor@metaedits.in)  
+**WhatsApp:** [https://wa.me/metedt](https://wa.me/metedt)
+
+Where possible, include:
+
+* Your name and order reference.
+* The service purchased.
+* Payment date and transaction reference.
+* The reason for your request.
+* Relevant files, screenshots or examples.
+* Your preferred resolution.
+
+You do not need to provide a detailed explanation for cancellation
+before work begins. Supporting information is helpful when reporting a
+service deficiency.
+
+Please do not send passwords, card security codes, payment PINs or
+one-time passwords.
+
+**Assessment and refund processing**
+
+We will:
+
+1. Acknowledge your request within **two business days**.
+2. Review the order, completed work and relevant correspondence.
+3. Aim to provide a decision within **seven business days** after
+receiving the information reasonably needed to assess the request.
+4. Explain any proposed deduction or alternative remedy.
+5. Initiate an approved refund within **seven business days of
+approval**.
+
+If assessment requires additional time, we will explain the reason and
+provide an updated timeframe. Any shorter mandatory legal deadline will
+take precedence.
+
+Refunds will ordinarily be issued through the original payment method.
+If that is unavailable, we will agree on a secure alternative and carry
+out proportionate verification.
+
+Banks and payment providers may take additional time to credit the
+refund after initiation.
+
+For international payments, exchange-rate movements or independently
+imposed banking charges may affect the amount received in your local
+currency. We will not use those differences to justify an undisclosed
+deduction from the refund we owe.
+
+Store credit or replacement services will be offered only as an option,
+not imposed instead of a refund to which you are entitled.
+
+**Payment disputes and chargebacks**
+
+We encourage you to contact us first so that we can investigate and
+resolve payment concerns. This does not restrict your right to approach
+your bank, payment provider, consumer forum or another competent
+authority.
+
+If a chargeback or payment dispute is already open, please tell us so
+that we can coordinate the response and avoid duplicate refunds.
+
+A payment dispute does not automatically justify retaining unrelated
+project files or denying otherwise applicable remedies.
+
+**Files following cancellation**
+
+After cancellation, we will handle your files according to our Privacy
+Policy and any project-specific agreement.
+
+You may request deletion of project materials, subject to necessary
+legal, accounting and dispute-related retention.
+
+A refund does not transfer ownership of your original research to Meta
+Edits. Any rights concerning bespoke deliverables, unpaid work or
+third-party materials remain governed by the accepted service agreement
+and applicable law.
+
+**Changes to this Policy**
+
+We may update this Policy for future orders. The version accepted when
+your order was confirmed will ordinarily govern that order unless a
+change is required by law or agreed with you.
+
+An update will not retrospectively remove an accrued refund right.
+
+**Contact and complaints**
+
+**Meta Edits**  
+Website: [https://metaedits.in](https://metaedits.in/)  
+Email: [editor@metaedits.in](mailto:editor@metaedits.in)  
+WhatsApp: [https://wa.me/metedt](https://wa.me/metedt)
+
+**Grievance Contact:** Jinto Michael
+
