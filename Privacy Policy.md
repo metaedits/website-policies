@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-**Effective date:** 01/10/2026\
+**Effective date:** 01/10/2026  
 **Last updated:** 07/10/2026
 
 Meta Edits respects your privacy and recognises the confidential nature
@@ -23,20 +23,17 @@ AI-detection reports, and related document and visual-content services.
 
 Our contact details are:
 
-- **Name:** Meta Edits
+* **Name:** Meta Edits
+* **Website:** [https://metaedits.in](https://metaedits.in/)
+* **Email:** [editor@metaedits.in](mailto:editor@metaedits.in)
+* **WhatsApp:** [https://wa.me/metedt](https://wa.me/metedt)
 
-- **Website:** [https://metaedits.in](https://metaedits.in/)
 
-- **Email:** <editor@metaedits.in>
-
-- **WhatsApp:** <https://wa.me/metedt>
-
-- 
 
 For privacy requests or complaints, please contact:
 
-**Privacy and Grievance Contact:** Jinto Michael\
-**Email:** <editor@metaedits.in>
+**Privacy and Grievance Contact:** Jinto Michael  
+**Email:** [editor@metaedits.in](mailto:editor@metaedits.in)
 
 Please use the subject line **"Privacy Request --- Meta Edits"** where
 possible.
@@ -45,21 +42,15 @@ possible.
 
 This Policy covers information processed through:
 
-- Our website and enquiry forms.
-
-- Email, WhatsApp, telephone and other authorised communication
-  channels.
-
-- Quotations, orders, invoices and payments.
-
-- Files you share for evaluation or service delivery.
-
-- Editing, research, formatting, reporting and related project
-  workflows.
-
-- Customer support, feedback and complaints.
-
-- Marketing communications, where applicable.
+* Our website and enquiry forms.
+* Email, WhatsApp, telephone and other authorised communication
+channels.
+* Quotations, orders, invoices and payments.
+* Files you share for evaluation or service delivery.
+* Editing, research, formatting, reporting and related project
+workflows.
+* Customer support, feedback and complaints.
+* Marketing communications, where applicable.
 
 Research documents may contain both personal information and
 confidential information that is not personal information. We handle
@@ -82,19 +73,13 @@ obligations.
 
 This may include:
 
-- Your name.
-
-- Email address and telephone number.
-
-- Institution or organisation, if provided.
-
-- Country or time zone, where relevant.
-
-- Research area and requested service.
-
-- Deadline, budget and project instructions.
-
-- Information contained in messages and attachments.
+* Your name.
+* Email address and telephone number.
+* Institution or organisation, if provided.
+* Country or time zone, where relevant.
+* Research area and requested service.
+* Deadline, budget and project instructions.
+* Information contained in messages and attachments.
 
 You do not need to provide information about your institution unless it
 is relevant to the service or you choose to share it.
@@ -103,23 +88,15 @@ is relevant to the service or you choose to share it.
 
 Depending on your order, we may receive:
 
-- Theses, dissertations, journal manuscripts and book chapters.
-
-- Research proposals and literature review materials.
-
-- Reference lists and reference-management files.
-
-- Questionnaires, interview guides and transcripts.
-
-- Datasets, spreadsheets, tables, images and figures.
-
-- Presentations, posters and LaTeX source files.
-
-- Reviewer comments, editorial letters and supervisor feedback.
-
-- Similarity reports and AI-detection reports.
-
-- University requirements and journal submission instructions.
+* Theses, dissertations, journal manuscripts and book chapters.
+* Research proposals and literature review materials.
+* Reference lists and reference-management files.
+* Questionnaires, interview guides and transcripts.
+* Datasets, spreadsheets, tables, images and figures.
+* Presentations, posters and LaTeX source files.
+* Reviewer comments, editorial letters and supervisor feedback.
+* Similarity reports and AI-detection reports.
+* University requirements and journal submission instructions.
 
 These files may contain author names, affiliations, acknowledgements,
 participant information or other personal information.
@@ -132,19 +109,13 @@ embedded objects. Please review these before sharing a document.
 
 We may collect:
 
-- Quotation and order details.
-
-- Billing name and address.
-
-- Tax information where required.
-
-- Invoice records.
-
-- Payment amount, date, status and transaction reference.
-
-- Information needed to process a refund.
-
-- Records of acceptance, instructions and approvals.
+* Quotation and order details.
+* Billing name and address.
+* Tax information where required.
+* Invoice records.
+* Payment amount, date, status and transaction reference.
+* Information needed to process a refund.
+* Records of acceptance, instructions and approvals.
 
 Please do not send us payment passwords, PINs, one-time passwords or
 complete card credentials.
@@ -159,19 +130,13 @@ needed to confirm and reconcile payment.
 Depending on the website tools enabled, our hosting and security systems
 may process:
 
-- IP address.
-
-- Browser type and device information.
-
-- Operating system.
-
-- Date and time of access.
-
-- Pages requested and referring pages.
-
-- Error logs and security events.
-
-- Cookie identifiers and consent preferences.
+* IP address.
+* Browser type and device information.
+* Operating system.
+* Date and time of access.
+* Pages requested and referring pages.
+* Error logs and security events.
+* Cookie identifiers and consent preferences.
 
 Details of non-essential analytics or advertising technologies, if used,
 are provided in the cookies section below.
@@ -189,18 +154,13 @@ separate permission.
 
 We generally obtain information:
 
-- Directly from you.
-
-- From someone authorised to act for you.
-
-- From documents you submit.
-
-- From payment and communication providers.
-
-- Through website hosting, security and consent tools.
-
-- From public academic or professional sources where relevant to an
-  agreed research service.
+* Directly from you.
+* From someone authorised to act for you.
+* From documents you submit.
+* From payment and communication providers.
+* Through website hosting, security and consent tools.
+* From public academic or professional sources where relevant to an
+agreed research service.
 
 If you provide another person's information, you must have an
 appropriate basis to share it and provide any notices or obtain any
@@ -213,38 +173,33 @@ information appropriately.
 
 We use information for the following purposes:
 
-  -----------------------------------------------------------------------
-  **Purpose**                   **Information typically involved**
-  ----------------------------- -----------------------------------------
-  Responding to enquiries and   Contact details, project description and
-  preparing quotations          evaluation files
 
-  Providing purchased services  Manuscripts, research materials,
-                                instructions and project correspondence
 
-  Producing similarity or       Submitted document, selected settings and
-  AI-detection reports          report output
+**| Purpose | Information typically involved |**
 
-  Managing orders and delivery  Contact details, order records, approvals
-                                and delivery files
+| --- | --- |
 
-  Processing payments and       Billing information and transaction
-  refunds                       records
+| Responding to enquiries and preparing quotations | Contact details, project description and evaluation files |
 
-  Providing revisions and       Delivered files, feedback and
-  support                       correspondence
+| Providing purchased services | Manuscripts, research materials, instructions and project correspondence |
 
-  Protecting systems and        Technical logs, access records and
-  preventing misuse             relevant transaction information
+| Producing similarity or AI-detection reports | Submitted document, selected settings and report output |
 
-  Maintaining accounting and    Invoices, payment records, agreements and
-  legal records                 necessary correspondence
+| Managing orders and delivery | Contact details, order records, approvals and delivery files |
 
-  Sending optional marketing    Contact details and marketing preferences
+| Processing payments and refunds | Billing information and transaction records |
 
-  Resolving complaints and      Relevant project, communication and
-  legal claims                  transaction records
-  -----------------------------------------------------------------------
+| Providing revisions and support | Delivered files, feedback and correspondence |
+
+| Protecting systems and preventing misuse | Technical logs, access records and relevant transaction information |
+
+| Maintaining accounting and legal records | Invoices, payment records, agreements and necessary correspondence |
+
+| Sending optional marketing | Contact details and marketing preferences |
+
+| Resolving complaints and legal claims | Relevant project, communication and transaction records |
+
+
 
 We do not treat permission to perform one service as permission to use
 your materials for an unrelated purpose.
@@ -287,17 +242,12 @@ information for their assigned role.
 Without separate permission, we do not publish or use identifiable
 client documents as:
 
-- Portfolio samples.
-
-- Teaching or demonstration materials.
-
-- Public case studies.
-
-- Marketing content.
-
-- Downloadable templates.
-
-- Publicly accessible research resources.
+* Portfolio samples.
+* Teaching or demonstration materials.
+* Public case studies.
+* Marketing content.
+* Downloadable templates.
+* Publicly accessible research resources.
 
 Please tell us before sharing material subject to an NDA, institutional
 restriction, ethics approval condition, funder requirement, embargo or
@@ -318,16 +268,12 @@ language editing, formatting or reference-management services.
 
 Where possible, please:
 
-- Replace participant names with codes.
-
-- Remove contact details and unnecessary identifying information.
-
-- Exclude signatures, identity documents and consent forms.
-
-- Remove unnecessary medical, financial or other sensitive information.
-
-- Keep the key linking participant codes to identities with your
-  research team.
+* Replace participant names with codes.
+* Remove contact details and unnecessary identifying information.
+* Exclude signatures, identity documents and consent forms.
+* Remove unnecessary medical, financial or other sensitive information.
+* Keep the key linking participant codes to identities with your
+research team.
 
 Pseudonymised information may still be personal information if someone
 can be reidentified.
@@ -350,15 +296,11 @@ relevant material, subject to applicable obligations.
 
 Some services may involve AI-assisted tools for activities such as:
 
-- Literature discovery and evidence organisation.
-
-- Language refinement and summarisation.
-
-- Translation support.
-
-- Formatting assistance.
-
-- Visual-content development.
+* Literature discovery and evidence organisation.
+* Language refinement and summarisation.
+* Translation support.
+* Formatting assistance.
+* Visual-content development.
 
 Where non-public client material would be submitted to an external AI
 provider, we will identify the intended tools and processing
@@ -418,28 +360,21 @@ will take the steps available to us and explain any provider-controlled
 limitations.
 
 **DrillBit processing disclosure:**
-<https://drillbitglobal.com/privacy-policy>
+[https://drillbitglobal.com/privacy-policy](https://drillbitglobal.com/privacy-policy)
 
 **Who may receive information**
 
 We may share the minimum information necessary with:
 
-- Authorised editors, translators, designers, research assistants or
-  specialist reviewers.
-
-- Website hosting, storage, email and file-transfer providers.
-
-- Approved AI and document-analysis providers.
-
-- DrillBit for purchased reporting services.
-
-- Payment processors, banks and accounting providers.
-
-- Professional advisers where necessary.
-
-- Public authorities where disclosure is legally required.
-
-- Another recipient at your direction or with appropriate authorisation.
+* Authorised editors, translators, designers, research assistants or
+specialist reviewers.
+* Website hosting, storage, email and file-transfer providers.
+* Approved AI and document-analysis providers.
+* DrillBit for purchased reporting services.
+* Payment processors, banks and accounting providers.
+* Professional advisers where necessary.
+* Public authorities where disclosure is legally required.
+* Another recipient at your direction or with appropriate authorisation.
 
 Personnel and contractors handling confidential project materials are
 subject to appropriate confidentiality obligations.
@@ -459,23 +394,23 @@ confidentiality safeguards, applicable law and any required notice.
 
 Our current principal providers are:
 
-  -------------------------------------------
-  **Function**               **Provider and
-                             service**
-  -------------------------- ----------------
-  Email                      iCloud by Apple
 
-  Cloud storage and file     iCloud by Apple
-  transfer                   
 
-  Payments                   Paytm
+| **Function** | **Provider and service** |
 
-  Messaging                  WhatsApp
-                             Business
+| --- | --- |
 
-  Similarity and             DrillBit
-  AI-detection reports       
-  -------------------------------------------
+| Email | iCloud by Apple |
+
+| Cloud storage and file transfer | iCloud by Apple |
+
+| Payments | Paytm |
+
+| Messaging | WhatsApp Business |
+
+| Similarity and AI-detection reports | DrillBit |
+
+
 
 Project-specific providers or materially different processing
 arrangements will be disclosed where appropriate before use.
@@ -530,11 +465,9 @@ acceptance of service terms.
 
 You may opt out by:
 
-- Using an unsubscribe link, where provided.
-
-- Replying "STOP" to a marketing message.
-
-- Emailing <editor@metaedits.in>.
+* Using an unsubscribe link, where provided.
+* Replying "STOP" to a marketing message.
+* Emailing [editor@metaedits.in](mailto:editor@metaedits.in).
 
 Opting out of marketing does not stop essential project, payment,
 security or legal communications.
@@ -570,58 +503,33 @@ complaint handling and legal obligations.
 
 Our retention schedule is:
 
-  -----------------------------------------------------------------------
-  **Record           **Retention period**
-  category**         
-  ------------------ ----------------------------------------------------
-  Unsuccessful       6 months after the last meaningful contact.
-  enquiries and      
-  quotation          
-  correspondence     
 
-  Sample documents   30 days after quotation expiry or enquiry closure,
-  supplied only for  unless the project proceeds.
-  quotation          
 
-  Working project    90 days after project closure, unless a shorter
-  files, source      period is agreed or continued retention is legally
-  documents and      necessary.
-  reports            
+| **Record category** | **Retention period** |
 
-  Final deliverables 12 months after project closure, unless earlier
-                     deletion is requested and permitted.
+| --- | --- |
 
-  Contracts,         3 years after project closure, or longer where
-  approvals and      necessary for an unresolved dispute or legal
-  essential order    obligation.
-  correspondence     
+| Unsuccessful enquiries and quotation correspondence | 6 months after the last meaningful contact. |
 
-  Invoices, tax and  5 years from the end of the relevant financial year,
-  accounting records or longer if required by applicable law or pending
-                     proceedings. Supporting records will exclude
-                     research content wherever practicable.
+| Sample documents supplied only for quotation | 30 days after quotation expiry or enquiry closure, unless the project proceeds. |
 
-  Website and        180 days from creation, unless longer retention is
-  security logs      required by law or necessary to investigate a
-                     security incident.
+| Working project files, source documents and reports | 90 days after project closure, unless a shorter period is agreed or continued retention is legally necessary. |
 
-  Marketing records  Until consent is withdrawn or 24 months after the
-                     last meaningful interaction, whichever occurs first.
-                     A minimal suppression record may be retained
-                     separately.
+| Final deliverables | 12 months after project closure, unless earlier deletion is requested and permitted. |
 
-  Consent and        Consent records: 3 years after withdrawal or the end
-  suppression        of the relevant processing, whichever is later.
-  records            Minimal suppression records: for as long as Meta
-                     Edits operates the relevant marketing channel and
-                     needs the record to prevent unwanted contact,
-                     reviewed annually.
+| Contracts, approvals and essential order correspondence | 3 years after project closure, or longer where necessary for an unresolved dispute or legal obligation. |
 
-  Backup copies      Deleted or overwritten within 90 days after deletion
-                     from active systems, unless subject to a documented
-                     legal hold. Backup copies are not used for routine
-                     processing.
-  -----------------------------------------------------------------------
+| Invoices, tax and accounting records | 5 years from the end of the relevant financial year, or longer if required by applicable law or pending proceedings. Supporting records will exclude research content wherever practicable. |
+
+| Website and security logs | 180 days from creation, unless longer retention is required by law or necessary to investigate a security incident. |
+
+| Marketing records | Until consent is withdrawn or 24 months after the last meaningful interaction, whichever occurs first. A minimal suppression record may be retained separately. |
+
+| Consent and suppression records | Consent records: 3 years after withdrawal or the end of the relevant processing, whichever is later. Minimal suppression records: for as long as Meta Edits operates the relevant marketing channel and needs the record to prevent unwanted contact, reviewed annually. |
+
+| Backup copies | Deleted or overwritten within 90 days after deletion from active systems, unless subject to a documented legal hold. Backup copies are not used for routine processing. |
+
+
 
 For this purpose, project closure generally means completion of the
 agreed services and included revision period, unless another closure
@@ -683,29 +591,22 @@ project download links publicly.
 Depending on applicable law and the provisions in force, you may have
 rights to:
 
-- Request information about how your personal information is processed.
-
-- Access your personal information or receive an appropriate summary.
-
-- Correct inaccurate or incomplete information.
-
-- Request deletion.
-
-- Withdraw consent.
-
-- Raise a grievance.
-
-- Nominate another person to exercise specified rights where recognised
-  by law.
-
-- Exercise additional rights, such as restriction, objection or
-  portability, where applicable in your jurisdiction.
+* Request information about how your personal information is processed.
+* Access your personal information or receive an appropriate summary.
+* Correct inaccurate or incomplete information.
+* Request deletion.
+* Withdraw consent.
+* Raise a grievance.
+* Nominate another person to exercise specified rights where recognised
+by law.
+* Exercise additional rights, such as restriction, objection or
+portability, where applicable in your jurisdiction.
 
 Not every right applies in every situation. For example, we may need to
 retain invoices or records relevant to a legal claim even after deleting
 project files.
 
-To make a request, email <editor@metaedits.in> with sufficient
+To make a request, email [editor@metaedits.in](mailto:editor@metaedits.in) with sufficient
 information to identify the relevant records. You do not need to
 disclose unnecessary sensitive information.
 
@@ -783,7 +684,8 @@ an incompatible new use of previously collected information.
 For privacy questions, consent withdrawal, deletion requests or
 complaints:
 
-**Meta Edits**\
-Website: [https://metaedits.in](https://metaedits.in/)\
-Email: <editor@metaedits.in>\
-WhatsApp: <https://wa.me/metedt>
+**Meta Edits**  
+Website: [https://metaedits.in](https://metaedits.in/)  
+Email: [editor@metaedits.in](mailto:editor@metaedits.in)  
+WhatsApp: [https://wa.me/metedt](https://wa.me/metedt)
+
